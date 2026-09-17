@@ -1,6 +1,6 @@
 <!-- Dynamic Animated Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,18,24&height=220&section=header&text=Zeyad%20Enab&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Back-End%20.NET%20Engineer%20%7C%20Full-Stack%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,18,24&height=220&section=header&text=Zeyad%203nab&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Back-End%20.NET%20Engineer%20%7C%20Full-Stack%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <!-- Animated Greeting & Typing SVG -->
   <a href="https://github.com/Zeyad-3nab">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="36" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=620&lines=%E2%9A%99%EF%B8%8F+Crafting+Scalable+.NET+8+APIs;%F0%9F%8F%9B%EF%B8%8F+Clean+Architecture+%26+CQRS+Enthusiast;%E2%9A%A1+Real-Time+SignalR+WebSockets;%F0%9F%8C%90+Full-Stack+Magic+with+Angular+%26+Next.js;%F0%9F%9A%80+Turning+Complex+Logic+Into+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Hi%2C+I'm+Zeyad+3nab;%E2%9A%99%EF%B8%8F+Crafting+Scalable+.NET+8+APIs;%F0%9F%8F%9B%EF%B8%8F+Clean+Architecture+%26+CQRS+Enthusiast;%E2%9A%A1+Real-Time+SignalR+WebSockets;%F0%9F%8C%90+Full-Stack+Magic+with+Angular+%26+Next.js" alt="Typing SVG" />
   </a>
 
   <br>
@@ -41,8 +41,9 @@
 ```csharp
 namespace DeveloperProfile
 {
-    public class ZeyadEnab : BackendEngineer
+    public class Zeyad3nab : BackendEngineer
     {
+        public string Name            { get; } = "Zeyad 3nab";
         public string Title           { get; } = ".NET Backend & Full-Stack Developer";
         public string Location        { get; } = "Egypt 🇪🇬";
         public string CoreStack       { get; } = "C# 12 | .NET 8 | ASP.NET Core | EF Core | SQL Server";
@@ -135,25 +136,26 @@ namespace DeveloperProfile
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" /> 🏆 GitHub Trophies & Milestones
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <a href="https://github.com/Zeyad-3nab">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zeyad-3nab&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
-  </a>
+  <!-- GitHub Readme Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeyad-3nab&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-3nab&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
 </div>
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> 📊 GitHub Analytics & Streak
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeyad-3nab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=9D4EDD&icon_color=00F0FF&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-3nab&layout=compact&theme=tokyonight&hide_border=true&title_color=9D4EDD&text_color=E0E6ED&bg_color=0D1117" width="45%" alt="Top Languages" />
+  <!-- GitHub Streak Stats (Active Demolab Server) -->
+  <img src="https://streak-stats.demolab.com?user=Zeyad-3nab&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-3nab&theme=tokyonight&hide_border=true&stroke=9D4EDD&ring=00F0FF&fire=FF4500&currStreakNum=E0E6ED&sideNums=E0E6ED&currStreakLabel=00F0FF&background=0D1117" width="94%" alt="GitHub Streak" />
+  <!-- GitHub Dynamic Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeyad-3nab&theme=tokyo-night&hide_border=true&area=true" width="94%" alt="GitHub Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%">
