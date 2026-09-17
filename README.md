@@ -15,16 +15,16 @@
 
   <!-- Glowing Social Badges -->
   <p align="center">
-    <a href="mailto:zeyadenab220@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=gradient" alt="Gmail"/>
+    <a href="mailto:zeyadenab220@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/Zeyad-3nab">
+    <a href="https://github.com/Zeyad-3nab" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/">
+    <a href="https://www.linkedin.com/in/zeyad-enab-830318315" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://t.me/">
+    <a href="https://t.me/+201012260782" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
   </p>
@@ -188,6 +188,32 @@ namespace DeveloperProfile
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="8%"/>
 
 <p><em>Bug Identified &nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp;&nbsp;&nbsp;&nbsp; Solution Found &nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp;&nbsp;&nbsp;&nbsp; Tests Pass &nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp;&nbsp;&nbsp;&nbsp; Deployed</em></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="32" /> 📬 Connect & Let's Collaborate!
+
+<div align="center">
+
+<p>I'm always open to discussing <strong>.NET Backend Architecture</strong>, new opportunities, or tech collaborations!</p>
+
+<p align="center">
+  <a href="mailto:zeyadenab220@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-zeyadenab220@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/zeyad-enab-830318315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zeyad_Enab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/+201012260782" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat_Directly-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zeyad-3nab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Zeyad--3nab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
